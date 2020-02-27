@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("home")
 	public String homePage() {
 		
-		System.out.println("Inside HomePage method test");
+		System.out.println("Inside HomePage method test version2");
 		
 		return "home";
 		
